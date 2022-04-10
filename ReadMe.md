@@ -2,7 +2,7 @@
 
 This is just a a place for me to play around with Go.
 
-Following [the W3Schools Go tutorial](https://www.w3schools.com/go/index.php).
+Following [the W3Schools Go tutorial](https://www.w3schools.com/go/).
 
 ## Installation / Setup
 
