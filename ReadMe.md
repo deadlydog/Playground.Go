@@ -11,6 +11,8 @@ Following [the W3Schools Go tutorial](https://www.w3schools.com/go/).
 1. Run the `Go: Install/Update Tools` command in VS Code.
 1. In your project directory, open a terminal and run `go mod init example.com/hello`.
 
+Check which version of Go you have installed by running `go version`.
+
 ## Running your code
 
 - In VS Code, just have your .go file open and press `F5` to run the code.
