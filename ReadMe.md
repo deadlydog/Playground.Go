@@ -10,3 +10,12 @@ Following [the W3Schools Go tutorial](https://www.w3schools.com/go/).
 1. Install [the `Go` VS Code extension](https://marketplace.visualstudio.com/items?itemName=golang.Go).
 1. Run the `Go: Install/Update Tools` command in VS Code.
 1. In your project directory, open a terminal and run `go mod init example.com/hello`.
+
+## Running your code
+
+- In VS Code, just have your .go file open and press `F5` to run the code.
+- From the command line, use `go run YourFile.go` to run the code.
+
+## Building an executable
+
+To compile your program into an executable, use the command `go build YourFile.go`.
